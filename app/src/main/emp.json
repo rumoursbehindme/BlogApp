@@ -1,0 +1,15 @@
+[
+    {
+        "name":"Rajeev",
+        "id":100,
+        "salary":null,
+        "vehicle":null
+    },
+    {
+        "name":"Sanjay",
+        "id":1,
+        "salary":800000,
+        "vehicle":"BMW"
+        
+    }
+]
